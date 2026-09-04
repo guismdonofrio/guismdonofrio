@@ -1,6 +1,6 @@
 <div align="center">
 
-# Oi, eu sou a Guilhermina 👋🤸🏻‍♀️
+# Oi, eu sou a Guilhermina 👋
 
 ### Estudante de TI • Banco de Dados • Java & APIs
 
@@ -12,11 +12,10 @@
 
 ### 🙋‍♀️ Sobre mim
 
-- 🎓 Técnica em Informática pelo **Senac SJC**, cursando **Tecnologia em Banco de Dados** na **Fatec São José dos Campos**
-- 🤖 Comecei na tecnologia através da robótica
+- 🎓 Técnica em Informática pelo **Senac**, cursando **Tecnologia em Banco de Dados** na **Fatec São José dos Campos**
+- 🤖 Comecei na tecnologia através da robótica, ainda criança
 - 💻 Hoje desenvolvo projetos próprios e em squad, incluindo APIs em Java e um sistema com IA local
 - 📚 Em busca de estágio ou primeira oportunidade em TI
-- 📍 Caçapava, SP
 
 ---
 
@@ -34,15 +33,13 @@
 ---
 
 ### 📊 Estatísticas do GitHub
-
-<!--
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=guismdonofrio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guismdonofrio&layout=compact&theme=tokyonight&hide_border=true" />
-</p> -->
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=guismdonofrio&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-5jig.vercel.app/api?username=guismdonofrio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-5jig.vercel.app/api/top-langs/?username=guismdonofrio&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
